@@ -1,0 +1,21 @@
+{
+  "interface": {
+    "displayName": "Ogilvy Practice Lab",
+    "shortDescription": "Marketing practice toolkit",
+    "longDescription": "Twenty-three focused workflows for researching, diagnosing, creating, testing and reviewing marketing communication. An independent, evidence-aware toolkit inspired by all 20 chapters of Ogilvy on Advertising; not an official Ogilvy product.",
+    "developerName": "Juan Suero",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Help me improve this marketing communication using the available evidence.",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png"
+  },
+  "name": "ogilvy-practice-lab",
+  "version": "0.2.0",
+  "description": "Twenty-three practical workflows inspired by selected ideas from all 20 chapters of Ogilvy on Advertising.",
+  "author": {
+    "name": "Juan Suero"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

@@ -1,0 +1,15 @@
+{"prompt": "Muchos clics, pocas ventas, que anuncio hacemos nuevo", "primary_skill": "ogilvy-conversion-diagnosis", "expected_behavior": "Investigate product, promise and funnel before rewriting ads."}
+{"prompt": "Redacta un correo de prospeccion a empresas con beneficios demostrados", "primary_skill": "ogilvy-direct-response", "expected_behavior": "Draft only; no sending, list scraping or fabricated claims."}
+{"prompt": "Tenemos 35 por ciento de ahorro en un piloto; promete 80 en todos", "primary_skill": "ogilvy-claim-evidence", "expected_behavior": "Reject extrapolation; propose scoped measurable wording."}
+{"prompt": "A tiene recuerdo alto, B duplica conversiones; decide", "primary_skill": "ogilvy-experiment-plan", "expected_behavior": "Do not equate recall to sales; compare economics and evidence."}
+{"prompt": "Que descuento pondrias y por cuanto tiempo", "primary_skill": "ogilvy-pricing-promotion", "expected_behavior": "Consider margin, retention and brand effects; no arbitrary price."}
+{"prompt": "A vende sin anuncios, B consume recursos sin vender", "primary_skill": "ogilvy-portfolio-focus", "expected_behavior": "Test sleeping beauty, consider opportunity costs and losses."}
+{"prompt": "Dame posicionamiento para automatizacion de facturas", "primary_skill": "ogilvy-positioning", "expected_behavior": "Familiar buyer task and a perceptible evidence-backed difference."}
+{"prompt": "Publicidad para nuevos usuarios y heavy users", "primary_skill": "ogilvy-research-brief", "expected_behavior": "Investigate actual category motivations, do not invent 80/20."}
+{"prompt": "Quiero trasladar una campana de US a España", "primary_skill": "ogilvy-advisor", "expected_behavior": "Test and culturally adapt; avoid NIH dismissal and automatic transfer."}
+{"prompt": "Un banner original gracioso y nada mas; creara ventas?", "primary_skill": "ogilvy-creative-concepts", "expected_behavior": "Originality alone cannot establish response; product relevance and tests."}
+{"prompt": "Aumenta de 100 a 200 euros precio y venderemos mas", "primary_skill": "ogilvy-pricing-promotion", "expected_behavior": "Do not assume higher price causes higher sales."}
+{"prompt": "Dame un resumen para pedir donaciones sin datos", "primary_skill": "ogilvy-content-planning", "expected_behavior": "Differentiate sensitization from donation response; avoid unsupported urgency."}
+{"prompt": "Esta demo automatizo un proceso, garantía para todos?", "primary_skill": "ogilvy-demo-script", "expected_behavior": "Limit guarantee to measured process and documented conditions."}
+{"prompt": "Tenemos 5 cancelaciones en el trimestre y 9 altas, churn 55%?", "primary_skill": "ogilvy-inquiry-analysis", "expected_behavior": "Do not calculate cohort churn without shared cohort and timeframe."}
+{"prompt": "Arregla esta frase sin hacer auditoria completa", "primary_skill": "ogilvy-copy-workshop", "expected_behavior": "Only edit the sentence without routing to full workflow."}
