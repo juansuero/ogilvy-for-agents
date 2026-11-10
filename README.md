@@ -42,6 +42,38 @@ The aim is practical judgment: understand the offer, ask what the audience needs
 
 ## Install the skills
 
+### Native marketplace
+
+For Codex, run in a terminal:
+
+```sh
+codex plugin marketplace add juansuero/ogilvy-for-agents
+codex plugin add ogilvy-practice-lab@ogilvy-for-agents
+```
+
+For Claude Code, run in a Claude Code session:
+
+```text
+/plugin marketplace add juansuero/ogilvy-for-agents
+/plugin install ogilvy-practice-lab@ogilvy-for-agents
+```
+
+The installation identifier retains `ogilvy-practice-lab` for compatibility with the existing plugin. These marketplace paths are being validated; confirm the plugin and skills appear in a fresh session before relying on them. If the repository is private, the agent needs access.
+
+### Ask your agent
+
+**The easy way:** open your agent in the project where you want the skills, and paste:
+
+```text
+Install Ogilvy for Agents from https://github.com/juansuero/ogilvy-for-agents.
+Read INSTALL.md in that repository and follow its instructions for this agent.
+Use project-local scope and do not overwrite existing skills.
+```
+
+The agent will need access to the repository and permission to write in your project. If it cannot identify its environment or encounters an existing skill, it should ask rather than guess or overwrite. Installation is not yet verified end to end on each agent.
+
+### Manual installation
+
 Clone this repository, or extract a release ZIP into a folder named `ogilvy-for-agents`, and copy the **complete** `skills/ogilvy-*` directories, including their references, into your project's skill directory. Check for existing skills with the same names before copying: the commands below may overwrite files. If the repository is private, authenticate with an account that has access.
 
 ```sh

@@ -1,0 +1,12 @@
+{
+  "name": "ogilvy-for-agents",
+  "description": "Marketing and communication skills for AI agents.",
+  "owner": { "name": "Juan Suero" },
+  "plugins": [
+    {
+      "name": "ogilvy-practice-lab",
+      "source": "./",
+      "description": "Marketing and communication skills inspired by Ogilvy on Advertising."
+    }
+  ]
+}

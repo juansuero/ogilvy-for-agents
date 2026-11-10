@@ -1,0 +1,12 @@
+{
+  "name": "ogilvy-for-agents",
+  "interface": { "displayName": "Ogilvy for Agents" },
+  "plugins": [
+    {
+      "name": "ogilvy-practice-lab",
+      "source": { "source": "local", "path": "./" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL", "products": ["CODEX"] },
+      "category": "Productivity"
+    }
+  ]
+}
