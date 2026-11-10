@@ -1,6 +1,6 @@
 {
   "interface": {
-    "displayName": "Ogilvy Practice Lab",
+    "displayName": "Ogilvy for Agents",
     "shortDescription": "Marketing practice toolkit",
     "longDescription": "Twenty-three focused workflows for researching, diagnosing, creating, testing and reviewing marketing communication. An independent, evidence-aware toolkit inspired by all 20 chapters of Ogilvy on Advertising; not an official Ogilvy product.",
     "developerName": "Juan Suero",
@@ -11,7 +11,7 @@
     "composerIcon": "./assets/icon.png"
   },
   "name": "ogilvy-practice-lab",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Twenty-three practical workflows inspired by selected ideas from all 20 chapters of Ogilvy on Advertising.",
   "author": {
     "name": "Juan Suero"

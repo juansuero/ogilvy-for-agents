@@ -1,7 +1,11 @@
-# Cambios
+# Changelog
+
+## 0.2.1 beta
+
+- Rename the visible project to Ogilvy for Agents; preserve the internal plugin identifier.
+- Add a banner and agent installation guidance.
+- Behavioral evaluations and host installation remain unverified.
 
 ## 0.2.0 beta
 
-- Instantánea del plugin privado con 23 skills, incluidas las de diagnóstico de conversión, respuesta directa, cartera y precios y promociones.
-- Referencias basadas en selecciones de los 20 capítulos y 15 casos de regresión preparados.
-- Las pruebas conductuales y la activación en una instalación real siguen pendientes.
+- Import the private plugin snapshot with 23 skills and 15 prepared regression cases.
