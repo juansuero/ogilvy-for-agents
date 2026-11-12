@@ -1,6 +1,8 @@
 {
   "name": "ogilvy-practice-lab",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Marketing and communication skills inspired by Ogilvy on Advertising.",
-  "author": { "name": "Juan Suero" }
+  "author": {
+    "name": "Juan Suero"
+  }
 }

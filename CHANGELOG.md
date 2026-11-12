@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2 beta
+
+- Update the plugin icon to match the editorial banner.
+
 ## 0.2.1 beta
 
 - Rename the visible project to Ogilvy for Agents; preserve the internal plugin identifier.

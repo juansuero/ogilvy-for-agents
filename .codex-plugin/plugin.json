@@ -11,7 +11,7 @@
     "composerIcon": "./assets/icon.png"
   },
   "name": "ogilvy-practice-lab",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Twenty-three practical workflows inspired by selected ideas from all 20 chapters of Ogilvy on Advertising.",
   "author": {
     "name": "Juan Suero"

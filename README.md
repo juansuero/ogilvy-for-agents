@@ -116,7 +116,7 @@ Use `ogilvy-advisor` for a broad question or select a specialist under `skills/`
 
 The references cover selected sections of all 20 chapters, not the complete book. Historical studies and results are not independently verified. A book principle does not establish a client's facts or predict campaign performance. A commercial website review is not an SEO, security, accessibility or performance certification. The plugin supplies no server, automatic data access or Alchemy integration.
 
-Version 0.2.1 is a beta. The 15 entries in `evals/regression-v0.2.jsonl` are prepared cases, not passing test results. Automatic routing and live installation remain unverified. The original 0.2.0 snapshot was exported from the private ChatGPT plugin; repository edits do not automatically synchronize with that plugin. The repository snapshot uses Juan Suero as author and chapter-and-section locators; the private ChatGPT release retains its existing Veltas author metadata and more specific locators. The internal package identifier remains `ogilvy-practice-lab` for continuity.
+Version 0.2.2 is a beta. The 15 entries in `evals/regression-v0.2.jsonl` are prepared cases, not passing test results. Automatic routing and live installation remain unverified. The original 0.2.0 snapshot was exported from the private ChatGPT plugin; repository edits do not automatically synchronize with that plugin. The repository snapshot uses Juan Suero as author and chapter-and-section locators; the private ChatGPT release retains its existing Veltas author metadata and more specific locators. The internal package identifier remains `ogilvy-practice-lab` for continuity.
 
 ## Contents
 
